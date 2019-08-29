@@ -36,7 +36,7 @@ Most recent laptops should support Docker CE.
 - To install Docker CE on Mac or Windows, open the
 [Docker getting started page](https://www.docker.com/get-started),
 stay on the "Developer" tab, and click the button on the right to download the
-installer for your OS. Follow all the instructions included.
+installer for your OS. Follow all the instructions included. Be sure to actually run the downloaded file!
 - To install Docker CE on Linux, open the [Docker
 docs](https://docs.docker.com/install/#server), and click the appropriate link
 to find instructions for your Linux distro.
